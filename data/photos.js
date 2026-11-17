@@ -8,6 +8,34 @@
    ============================================================ */
 
 window.PHOTOS = [
+  { id: "2026-03-30-1", src: "photos/2026-03-30-1.jpg", date: "2026-03-30",
+    caption: "Vivianys's baptism", location: "",
+    letterId: "2026-03-30-potato-salad" },
+
+  { id: "2026-03-30-2", src: "photos/2026-03-30-2.jpg", date: "2026-03-30",
+    caption: "Adiós, Elder Ramirez", location: "",
+    letterId: "2026-03-30-potato-salad" },
+
+  { id: "2026-03-30-3", src: "photos/2026-03-30-3.jpg", date: "2026-03-30",
+    caption: "Cody", location: "",
+    letterId: "2026-03-30-potato-salad" },
+
+  { id: "2026-03-30-4", src: "photos/2026-03-30-4.jpg", date: "2026-03-30",
+    caption: "Jarvin", location: "",
+    letterId: "2026-03-30-potato-salad" },
+
+  { id: "2026-03-30-5", src: "photos/2026-03-30-5.jpg", date: "2026-03-30",
+    caption: "Karen", location: "",
+    letterId: "2026-03-30-potato-salad" },
+
+  { id: "2026-03-30-6", src: "photos/2026-03-30-6.jpg", date: "2026-03-30",
+    caption: "Juan-Carlos (the GOAT🐐🐐🐐)", location: "",
+    letterId: "2026-03-30-potato-salad" },
+
+  { id: "2026-03-30-7", src: "photos/2026-03-30-7.jpg", date: "2026-03-30",
+    caption: "Easter", location: "",
+    letterId: "2026-03-30-potato-salad" },
+
   { id: "2025-11-18-1", src: "photos/2025-11-18-1.jpg", date: "2025-11-18",
     caption: "Bowser and ya boy", location: "",
     letterId: "2025-11-18-i-just-work-here" },
