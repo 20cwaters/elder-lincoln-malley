@@ -304,6 +304,33 @@ body.has-hero .site-header:not(.is-stuck) .nav-toggle { color: #fff; border-colo
   -webkit-mask-image: linear-gradient(to bottom, transparent, #000 70%);
           mask-image: linear-gradient(to bottom, transparent, #000 70%);
 }
+/* Phones and tablets: the photo gets its own space at the top and the
+   text starts below his face, overlapping only his suit, however tall the
+   text runs. (Desktop puts the portrait back beside the text.) */
+@media (max-width: 899px) {
+  .hero {
+    flex-direction: column; align-items: stretch; min-height: 0;
+    padding-top: 0;                      /* the photo runs up under the header */
+    background: var(--navy-deep);
+  }
+  .portrait {
+    position: relative; inset: auto;
+    height: calc(min(118vw, 74svh) + var(--header-h));
+    flex: none;
+  }
+  .portrait img { object-position: center 12%; }
+  .portrait::after {
+    background:
+      linear-gradient(to bottom,
+        rgba(30,24,56,.42) 0%,
+        rgba(30,24,56,.04) 16%,
+        rgba(30,24,56,.04) 56%,
+        rgba(30,24,56,.72) 82%,
+        var(--navy-deep) 100%);
+  }
+  .portrait::before { inset: 70% 0 0 0; }
+  .hero__inner { margin-top: -96px; padding-top: 0; }
+}
 .portrait__ph {
   position: absolute; inset: 0; display: flex; flex-direction: column;
   align-items: center; justify-content: center; gap: 10px; text-align: center;
