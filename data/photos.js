@@ -8,6 +8,26 @@
    ============================================================ */
 
 window.PHOTOS = [
+  { id: "2026-11-09-1", src: "photos/2026-11-09-1.jpg", date: "2026-11-09",
+    caption: "Zone temple trip", location: "",
+    letterId: "2026-11-09-4eva" },
+
+  { id: "2026-11-09-2", src: "photos/2026-11-09-2.jpg", date: "2026-11-09",
+    caption: "Father and son duo of doom", location: "",
+    letterId: "2026-11-09-4eva" },
+
+  { id: "2026-11-09-3", src: "photos/2026-11-09-3.jpg", date: "2026-11-09",
+    caption: "Salomón and Andrés", location: "",
+    letterId: "2026-11-09-4eva" },
+
+  { id: "2026-11-09-4", src: "photos/2026-11-09-4.jpg", date: "2026-11-09",
+    caption: "Dream team (yes I am larping with glasses) (yes I actually wear glasses and still used fake ones)", location: "",
+    letterId: "2026-11-09-4eva" },
+
+  { id: "2026-11-09-5", src: "photos/2026-11-09-5.jpg", date: "2026-11-09",
+    caption: "", location: "",
+    letterId: "2026-11-09-4eva" },
+
   { id: "2026-10-12-1", src: "photos/2026-10-12-1.jpg", date: "2026-10-12",
     caption: "lil exchange", location: "",
     letterId: "2026-10-12-odst" },

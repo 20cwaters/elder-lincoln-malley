@@ -5,6 +5,37 @@
 
 window.LETTERS = [
   {
+    id: "2026-11-09-4eva",
+    title: "4EVA",
+    date: "2026-11-09",
+    location: "Maple Mountain",
+    week: 60,
+    albumUrl: "https://photos.app.goo.gl/D3URGbxrSGa2Y6Ue8",
+    body: [
+      { type: "p", text: "Welcome back to the show people, how we doing?" },
+      { type: "p", text: "We finished out the transfer with Elder Simcox and I'm staying here in Maple-Mountain, but now back with my trainer Elder Sandes. I'm lowkenguinely turnt to have a latino comp and get my spanish right. (y'all don't know what a white boy serving spanish in the states goes through) #noaccent#butwegonnabeanativesoon" },
+      { type: "p", text: "I also know how to be a missionary now so it's double exciting to be back with him for that reason." },
+      { type: "p", text: "It's my 5th transfer here, and even though it feels like I've been here for 1 million years I'm excited to get after it and baptize every latino in Mapleton by the time I leave here." },
+      { type: "p", text: "We had 2 baptisms on saturday for the 2 younger sons of a family that has been taught for over 8 months now, so that was a blast to be there when they finally were able to make a promise with God." },
+      { type: "p", text: "!!!👇 👇 👇!!! SPIRITUAL THOUGHT" },
+      { type: "p", text: "I love this miracle recorded in Luke 5:" },
+      { type: "scripture", ref: "Luke 5:12–13", text: "12 ¶ And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.\n\n13 And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him." },
+      { type: "p", text: "A lot of times we read and hear about miracles that were a little bit more complicated, or required more effort on the part of the healed, but I love how simple this one was." },
+      { type: "p", text: "If we bring our problems to him, he is ready and willing to help us, with power to heal any wound." },
+      { type: "p", text: "If we ever wonder if Christ really wants to be involved in our lives, or really wants to heal us we can look back on the response he has already given, \"I will\"." },
+      { type: "p", text: "Love y'all, stay blessed." },
+      { type: "p", text: "-Elder Malley" }
+    ],
+    spiritualThought: {
+      title: "The response he has already given, \"I will\"",
+      intro: "I love this miracle recorded in Luke 5:",
+      scriptureRef: "Luke 5:12–13",
+      scripture: "12 ¶ And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.\n\n13 And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him."
+    },
+    tagalog: [],
+    photos: ["2026-11-09-1", "2026-11-09-2", "2026-11-09-3", "2026-11-09-4", "2026-11-09-5"]
+  },
+  {
     id: "2026-10-12-odst",
     title: "ODST",
     date: "2026-10-12",
