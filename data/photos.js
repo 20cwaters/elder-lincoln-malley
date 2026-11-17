@@ -8,6 +8,22 @@
    ============================================================ */
 
 window.PHOTOS = [
+  { id: "2026-10-12-1", src: "photos/2026-10-12-1.jpg", date: "2026-10-12",
+    caption: "lil exchange", location: "",
+    letterId: "2026-10-12-odst" },
+
+  { id: "2026-10-12-2", src: "photos/2026-10-12-2.jpg", date: "2026-10-12",
+    caption: "my dawg Lenin", location: "",
+    letterId: "2026-10-12-odst" },
+
+  { id: "2026-10-12-3", src: "photos/2026-10-12-3.jpg", date: "2026-10-12",
+    caption: "", location: "",
+    letterId: "2026-10-12-odst" },
+
+  { id: "2026-10-12-4", src: "photos/2026-10-12-4.jpg", date: "2026-10-12",
+    caption: "", location: "",
+    letterId: "2026-10-12-odst" },
+
   { id: "2026-09-21-1", src: "photos/2026-09-21-1.jpg", date: "2026-09-21",
     caption: "My sons first door (Elder Heap pulled up for the lesson assist)", location: "",
     letterId: "2026-09-21-cold-sunday" },

@@ -5,6 +5,35 @@
 
 window.LETTERS = [
   {
+    id: "2026-10-12-odst",
+    title: "ODST",
+    date: "2026-10-12",
+    location: "",
+    week: 56,
+    albumUrl: "https://photos.app.goo.gl/D3URGbxrSGa2Y6Ue8",
+    body: [
+      { type: "p", text: "What's good, I lowkey wrote out an entire 2 weeks ago and forgot to send it, but it was kinda wack so probably a good thing y'all didn't read it." },
+      { type: "p", text: "Anyway, to follow up with the last email I sent out, Mirium got baptized!" },
+      { type: "p", text: "She's actually such a dawg and told me she will buy me a plane ticket so I can visit her after the mission. #peru2027#favoritelamanite#dalepues" },
+      { type: "p", text: "😊 👇 HIGHLIGHT 👇🫢" },
+      { type: "p", text: "Your boy got to go to General Conference!" },
+      { type: "p", text: "I was able to attend the Sunday morning session (perks of a Utah mission) and it was actually awesome. The messages given were great, and hearing the prophet in person had me fired up, but the most impactful message for me was the spirit I felt during the closing hymn: Come Thou Font of Every Blessing." },
+      { type: "scripture", ref: "Come, Thou Fount of Every Blessing", text: "3. Oh, to grace how great a debtor\nDaily I’m constrained to be!\nLet Thy goodness, like a fetter,\nBind my wand’ring heart to Thee.\nProne to wander, Lord, I feel it,\nProne to leave the God I love.\nHere’s my heart, O take and seal it;\nSeal it for Thy courts above." },
+      { type: "p", text: "I'm definitely prone to wander and more often than not I forget to be grateful for what God has done for me, but I know that through the grace of His Son I can get better, offering my heart piece by piece until it's all with Him." },
+      { type: "p", text: "It's been raining a ton, and I feel like I'm making my way through the streets of New Mombasa, but instead of fighting the covenant I'm up against angry Venezuelans. I have 0 skulls turned on, splitscreen so it's lowkey hard to see, but I got good map knowledge so things are gonna turn out alright." },
+      { type: "p", text: "Love yall, stay blessed," },
+      { type: "p", text: "-Elder Malley" }
+    ],
+    spiritualThought: {
+      title: "Here's my heart, O take and seal it",
+      intro: "The most impactful message for me was the spirit I felt during the closing hymn: Come Thou Font of Every Blessing.",
+      scriptureRef: "Come, Thou Fount of Every Blessing",
+      scripture: "I'm definitely prone to wander and more often than not I forget to be grateful for what God has done for me, but I know that through the grace of His Son I can get better, offering my heart piece by piece until it's all with Him."
+    },
+    tagalog: [],
+    photos: ["2026-10-12-1", "2026-10-12-2", "2026-10-12-3", "2026-10-12-4"]
+  },
+  {
     id: "2026-09-21-cold-sunday",
     title: "Cold Sunday",
     date: "2026-09-21",
