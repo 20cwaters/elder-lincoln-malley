@@ -1006,6 +1006,7 @@ blockquote.scripture cite {
     background: var(--navy-deep);
     transform: rotate(2.2deg);
     order: 2;
+    z-index: 2;                          /* above the halftone burst, so no dots on his face */
   }
   .portrait img { object-position: center 30%; animation: none; transform: none; }
   .portrait::before { display: none; }
