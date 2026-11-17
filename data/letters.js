@@ -5,6 +5,34 @@
 
 window.LETTERS = [
   {
+    id: "2026-09-21-cold-sunday",
+    title: "Cold Sunday",
+    date: "2026-09-21",
+    location: "",
+    week: 53,
+    albumUrl: "https://photos.app.goo.gl/D3URGbxrSGa2Y6Ue8",
+    body: [
+      { type: "p", text: "Shoutout my dawg Ben Blakesley." },
+      { type: "p", text: "I'm having flashbacks because I've been knocking the same doors and driving on the same roads that I did last year at this time of year, but now I'm training instead of being trained, and I can actually speak and understand Spanish." },
+      { type: "p", text: "We had the baptisms of 2 friends I met last year when I served in this area!" },
+      { type: "p", text: "Dulce and Anel!" },
+      { type: "p", text: "I've been able to teach them a couple times on exchanges over the past several months but was finally able to help them be baptized!" },
+      { type: "p", text: "We had the baptism at 9:30pm and had to do some clutching to make it happen but we got it done." },
+      { type: "p", text: "It was a full circle moment and I'm so glad that God allowed me to be a part of their journey. They are the best, and I'm definitely visiting them after the mission." },
+      { type: "p", text: "Our friend Mirium is getting baptized on Sunday so stay tuned." },
+      { type: "p", text: "Stay blessed, love y'all," },
+      { type: "p", text: "-Elder Malley" }
+    ],
+    spiritualThought: {
+      title: "A full circle moment",
+      intro: "",
+      scriptureRef: "",
+      scripture: "It was a full circle moment and I'm so glad that God allowed me to be a part of their journey."
+    },
+    tagalog: [],
+    photos: ["2026-09-21-1", "2026-09-21-2", "2026-09-21-3", "2026-09-21-4"]
+  },
+  {
     id: "2026-03-30-potato-salad",
     title: "Potato salad",
     date: "2026-03-30",

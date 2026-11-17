@@ -8,6 +8,22 @@
    ============================================================ */
 
 window.PHOTOS = [
+  { id: "2026-09-21-1", src: "photos/2026-09-21-1.jpg", date: "2026-09-21",
+    caption: "My sons first door (Elder Heap pulled up for the lesson assist)", location: "",
+    letterId: "2026-09-21-cold-sunday" },
+
+  { id: "2026-09-21-2", src: "photos/2026-09-21-2.jpg", date: "2026-09-21",
+    caption: "Dulce and Anel's baptism", location: "",
+    letterId: "2026-09-21-cold-sunday" },
+
+  { id: "2026-09-21-3", src: "photos/2026-09-21-3.jpg", date: "2026-09-21",
+    caption: "Antonio, my goat", location: "",
+    letterId: "2026-09-21-cold-sunday" },
+
+  { id: "2026-09-21-4", src: "photos/2026-09-21-4.jpg", date: "2026-09-21",
+    caption: "he's so cute", location: "",
+    letterId: "2026-09-21-cold-sunday" },
+
   { id: "2026-03-30-1", src: "photos/2026-03-30-1.jpg", date: "2026-03-30",
     caption: "Vivianys's baptism", location: "",
     letterId: "2026-03-30-potato-salad" },
