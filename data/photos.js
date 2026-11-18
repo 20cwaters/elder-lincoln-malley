@@ -8,6 +8,34 @@
    ============================================================ */
 
 window.PHOTOS = [
+  { id: "2026-06-01-1", src: "photos/2026-06-01-1.jpg", date: "2026-06-01",
+    caption: "", location: "",
+    letterId: "2026-06-01-back-to-the-boonies" },
+
+  { id: "2026-06-01-2", src: "photos/2026-06-01-2.jpg", date: "2026-06-01",
+    caption: "Caty and Alejandra", location: "",
+    letterId: "2026-06-01-back-to-the-boonies" },
+
+  { id: "2026-06-01-3", src: "photos/2026-06-01-3.jpg", date: "2026-06-01",
+    caption: "Mariela and Dylan", location: "",
+    letterId: "2026-06-01-back-to-the-boonies" },
+
+  { id: "2026-06-01-4", src: "photos/2026-06-01-4.jpg", date: "2026-06-01",
+    caption: "", location: "",
+    letterId: "2026-06-01-back-to-the-boonies" },
+
+  { id: "2026-06-01-5", src: "photos/2026-06-01-5.jpg", date: "2026-06-01",
+    caption: "", location: "",
+    letterId: "2026-06-01-back-to-the-boonies" },
+
+  { id: "2026-06-01-6", src: "photos/2026-06-01-6.jpg", date: "2026-06-01",
+    caption: "Picture break with my bro Giliberto", location: "",
+    letterId: "2026-06-01-back-to-the-boonies" },
+
+  { id: "2026-06-01-7", src: "photos/2026-06-01-7.jpg", date: "2026-06-01",
+    caption: "Miguel", location: "",
+    letterId: "2026-06-01-back-to-the-boonies" },
+
   { id: "2026-02-25-1", src: "photos/2026-02-25-1.jpg", date: "2026-02-25",
     caption: "", location: "",
     letterId: "2026-02-25-96-dream-team" },
