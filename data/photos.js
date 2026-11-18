@@ -8,6 +8,18 @@
    ============================================================ */
 
 window.PHOTOS = [
+  { id: "2026-08-11-1", src: "photos/2026-08-11-1.jpg", date: "2026-08-11",
+    caption: "Day before his baptism, he wanted to practice", location: "",
+    letterId: "2026-08-11-back2back" },
+
+  { id: "2026-08-11-2", src: "photos/2026-08-11-2.jpg", date: "2026-08-11",
+    caption: "Ideal door knocking form", location: "",
+    letterId: "2026-08-11-back2back" },
+
+  { id: "2026-08-11-3", src: "photos/2026-08-11-3.jpg", date: "2026-08-11",
+    caption: "", location: "",
+    letterId: "2026-08-11-back2back" },
+
   { id: "2026-06-01-1", src: "photos/2026-06-01-1.jpg", date: "2026-06-01",
     caption: "", location: "",
     letterId: "2026-06-01-back-to-the-boonies" },

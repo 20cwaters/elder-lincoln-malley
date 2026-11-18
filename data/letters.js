@@ -5,6 +5,39 @@
 
 window.LETTERS = [
   {
+    id: "2026-08-11-back2back",
+    title: "Back2Back",
+    date: "2026-08-11",
+    location: "West Park",
+    week: 47,
+    albumUrl: "https://photos.app.goo.gl/D3URGbxrSGa2Y6Ue8",
+    body: [
+      { type: "p", text: "What's up, I wanted to send a quick one out today because I was pretty hype about yesterday!" },
+      { type: "p", text: "👇👇👇" },
+      { type: "p", text: "Our friend Adrian got baptized!" },
+      { type: "p", text: "He's the coolest, and God prepared him from day 1 till his baptism." },
+      { type: "p", text: "After his baptismal service he shared his testimony about how light he feels, and like he has no weight on his shoulders at all. No worries, just a calm and clean mind." },
+      { type: "p", text: "He pretty much followed exactly what the scriptures teach us to do:" },
+      { type: "scripture", ref: "Alma 7:15", text: "15 Yea, I say unto you come and fear not, and lay aside every sin, which easily doth beset you, which doth bind you down to destruction, yea, come and go forth, and show unto your God that ye are willing to repent of your sins and enter into a covenant with him to keep his commandments, and witness it unto him this day by going into the waters of baptism." },
+      { type: "p", text: "In these past 3 weeks with him I've seen him start filling up with light, little by little, and now he is such a joy to be around." },
+      { type: "p", text: "I've seen him fullfil the promise in Matthew 5:" },
+      { type: "scripture", ref: "Matthew 5:14–16", text: "14 Ye are the light of the world. A city that is set on an hill cannot be hid.\n\n15 Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.\n\n16 Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven." },
+      { type: "p", text: "He is becoming a light to those around him, and is and example to me of moving forward with faith and I'm so excited for him to continue growing in the Gospel." },
+      { type: "p", text: "- We also got transfer news and I'm staying here in West Park with Elder Wilson, the only change is I'll be DL." },
+      { type: "p", text: "Our zone is going to be all Elders, and on paper that sounds super fun so I'm hyped to see how things go." },
+      { type: "p", text: "Love y'all, stay blessed," },
+      { type: "p", text: "-Elder Malley" }
+    ],
+    spiritualThought: {
+      title: "Let your light so shine",
+      intro: "I've seen him fullfil the promise in Matthew 5:",
+      scriptureRef: "Matthew 5:14–16",
+      scripture: "14 Ye are the light of the world. A city that is set on an hill cannot be hid.\n\n15 Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.\n\n16 Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."
+    },
+    tagalog: [],
+    photos: ["2026-08-11-1", "2026-08-11-2", "2026-08-11-3"]
+  },
+  {
     id: "2026-06-01-back-to-the-boonies",
     title: "Back to the Boonies",
     date: "2026-06-01",
