@@ -8,6 +8,34 @@
    ============================================================ */
 
 window.PHOTOS = [
+  { id: "2026-02-25-1", src: "photos/2026-02-25-1.jpg", date: "2026-02-25",
+    caption: "", location: "",
+    letterId: "2026-02-25-96-dream-team" },
+
+  { id: "2026-02-25-2", src: "photos/2026-02-25-2.jpg", date: "2026-02-25",
+    caption: "", location: "",
+    letterId: "2026-02-25-96-dream-team" },
+
+  { id: "2026-02-25-3", src: "photos/2026-02-25-3.jpg", date: "2026-02-25",
+    caption: "", location: "",
+    letterId: "2026-02-25-96-dream-team" },
+
+  { id: "2026-02-25-4", src: "photos/2026-02-25-4.jpg", date: "2026-02-25",
+    caption: "On the prowl", location: "",
+    letterId: "2026-02-25-96-dream-team" },
+
+  { id: "2026-02-25-5", src: "photos/2026-02-25-5.jpg", date: "2026-02-25",
+    caption: "20th ward for life 🫡", location: "",
+    letterId: "2026-02-25-96-dream-team" },
+
+  { id: "2026-02-25-6", src: "photos/2026-02-25-6.jpg", date: "2026-02-25",
+    caption: "", location: "",
+    letterId: "2026-02-25-96-dream-team" },
+
+  { id: "2026-02-25-7", src: "photos/2026-02-25-7.jpg", date: "2026-02-25",
+    caption: "", location: "",
+    letterId: "2026-02-25-96-dream-team" },
+
   { id: "2026-11-09-1", src: "photos/2026-11-09-1.jpg", date: "2026-11-09",
     caption: "Zone temple trip", location: "",
     letterId: "2026-11-09-4eva" },

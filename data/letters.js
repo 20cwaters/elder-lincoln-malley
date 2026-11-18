@@ -5,6 +5,41 @@
 
 window.LETTERS = [
   {
+    id: "2026-02-25-96-dream-team",
+    title: "96' DREAM TEAM",
+    date: "2026-02-25",
+    location: "Mapleton",
+    week: 23,
+    albumUrl: "https://photos.app.goo.gl/D3URGbxrSGa2Y6Ue8",
+    body: [
+      { type: "p", text: "What's up! It's been a minute, so I'll fill you in on the highlights." },
+      { type: "p", text: "We finished out this transfer with 3 baptisms!!!" },
+      { type: "p", text: "Martha and her 2 grandkids, Michelle and Snaijder made a covenant with God, and it was so joyous!" },
+      { type: "p", text: "I've never felt more love, peace, joy, and just filled with the spirit then I was during their baptismal service. Me and Fenn did a lot of hard work in this area, and it was amazing to see the results of that effort." },
+      { type: "p", text: "All good things have to come to an end, and they are splitting up this big back duo." },
+      { type: "p", text: "Fenn is headed down to Price, and I'm on my way to Moab!" },
+      { type: "p", text: "I'll be joining a trio with 2 other Elders that I love, and I know are DAWGS." },
+      { type: "p", text: "People are going to have flashbacks to prime Bulls, Jordan, Pippin, and Rodman." },
+      { type: "p", text: "(I'm obviously Jordan in this scenario)" },
+      { type: "p", text: "The dream team is being assembled as we speak, and I'm super excited to get to know my new stomping grounds." },
+      { type: "p", text: "Super grateful for time up here in Spanish Fork, and so grateful to have been with Elder Fennunuti, he really is a friend for life now. I hear the south will treat me right, Moab is not ready.🗣Forbid a white boy speaks a little Spanish🗣" },
+      { type: "p", text: "Promised land here we come." },
+      { type: "p", text: "Finished off the last day in Mapleton by helping a mom and 2 kids accept baptismal covenant, with a date for the 8th of March!" },
+      { type: "p", text: "Meeting them was such a miracle, and I'm so excited for then to keep progressing on the covenant path, they will be in good hands with the Elders that are replacing us." },
+      { type: "p", text: "Said goodbye to the BEST recent converts, and finished packing my bags. It's been an amazing 6 months so far, time flies when you're serving the Lord." },
+      { type: "p", text: "Love y'all, stay blessed." },
+      { type: "p", text: "-Elder Malley" }
+    ],
+    spiritualThought: {
+      title: "Filled with the spirit",
+      intro: "",
+      scriptureRef: "",
+      scripture: "I've never felt more love, peace, joy, and just filled with the spirit then I was during their baptismal service."
+    },
+    tagalog: [],
+    photos: ["2026-02-25-1", "2026-02-25-2", "2026-02-25-3", "2026-02-25-4", "2026-02-25-5", "2026-02-25-6", "2026-02-25-7"]
+  },
+  {
     id: "2026-11-09-4eva",
     title: "4EVA",
     date: "2026-11-09",
