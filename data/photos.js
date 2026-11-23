@@ -10,6 +10,20 @@
 window.PHOTOS = [
 
   // ---- From his Google Photos album (found 2026-11-23) ----
+  { id: "album-2026-01-20-video-4", video: "c056e25ca6663c752d160ac73f5f1090", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/c056e25ca6663c752d160ac73f5f1090/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/c056e25ca6663c752d160ac73f5f1090/iframe", date: "2026-01-20",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-01-20-video-5", video: "46a1ee566d501b6bb9aa8473971b8f2c", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/46a1ee566d501b6bb9aa8473971b8f2c/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/46a1ee566d501b6bb9aa8473971b8f2c/iframe", date: "2026-01-20",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-01-20-video-6", video: "d298b36dee20632f6af4d1693b79d4f4", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/d298b36dee20632f6af4d1693b79d4f4/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/d298b36dee20632f6af4d1693b79d4f4/iframe", date: "2026-01-20",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+
+  // ---- From his Google Photos album (found 2026-11-23) ----
   { id: "album-2026-01-20-1", src: "photos/album-2026-01-20-1.jpg", date: "2026-01-20",
     caption: "", location: "Mexico CTM",
     letterId: "" },
