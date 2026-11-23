@@ -10,6 +10,16 @@
 window.PHOTOS = [
 
   // ---- From his Google Photos album (found 2026-11-23) ----
+  { id: "album-2026-01-27-video-4", video: "7e285f27f83b70845def0e5e2fa9e572", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/7e285f27f83b70845def0e5e2fa9e572/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/7e285f27f83b70845def0e5e2fa9e572/iframe", date: "2026-01-27",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-01-27-video-5", video: "02d4a6aaeec896c52394f3bfb3326256", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/02d4a6aaeec896c52394f3bfb3326256/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/02d4a6aaeec896c52394f3bfb3326256/iframe", date: "2026-01-27",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+
+  // ---- From his Google Photos album (found 2026-11-23) ----
   { id: "album-2026-01-27-1", src: "photos/album-2026-01-27-1.jpg", date: "2026-01-27",
     caption: "", location: "Mexico CTM",
     letterId: "" },
