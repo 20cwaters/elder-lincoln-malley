@@ -10,6 +10,17 @@
 window.PHOTOS = [
 
   // ---- From his Google Photos album (found 2026-11-23) ----
+  { id: "album-2026-08-11-13", src: "photos/album-2026-08-11-13.jpg", date: "2026-08-11",
+    caption: "", location: "West Park",
+    letterId: "2026-08-11-back2back" },
+  { id: "album-2026-08-11-14", src: "photos/album-2026-08-11-14.jpg", date: "2026-08-11",
+    caption: "", location: "West Park",
+    letterId: "2026-08-11-back2back" },
+  { id: "album-2026-08-11-15", src: "photos/album-2026-08-11-15.jpg", date: "2026-08-11",
+    caption: "", location: "West Park",
+    letterId: "2026-08-11-back2back" },
+
+  // ---- From his Google Photos album (found 2026-11-23) ----
   { id: "album-2026-08-11-1", src: "photos/album-2026-08-11-1.jpg", date: "2026-08-11",
     caption: "", location: "West Park",
     letterId: "2026-08-11-back2back" },
