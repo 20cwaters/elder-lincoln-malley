@@ -10,6 +10,12 @@
 window.PHOTOS = [
 
   // ---- From his Google Photos album (found 2026-11-23) ----
+  { id: "album-2026-01-12-video-4", video: "468561943e3dcf29d4ee085a5c44198b", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/468561943e3dcf29d4ee085a5c44198b/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/468561943e3dcf29d4ee085a5c44198b/iframe", date: "2026-01-12",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+
+  // ---- From his Google Photos album (found 2026-11-23) ----
   { id: "album-2026-01-12-1", src: "photos/album-2026-01-12-1.jpg", date: "2026-01-12",
     caption: "", location: "Mexico CTM",
     letterId: "" },
