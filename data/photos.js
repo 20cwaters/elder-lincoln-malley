@@ -10,6 +10,29 @@
 window.PHOTOS = [
 
   // ---- From his Google Photos album (found 2026-11-23) ----
+  { id: "album-2026-08-12-1", src: "photos/album-2026-08-12-1.jpg", date: "2026-08-12",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-08-12-2", src: "photos/album-2026-08-12-2.jpg", date: "2026-08-12",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-08-12-3", src: "photos/album-2026-08-12-3.jpg", date: "2026-08-12",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-08-12-4", src: "photos/album-2026-08-12-4.jpg", date: "2026-08-12",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-08-12-5", src: "photos/album-2026-08-12-5.jpg", date: "2026-08-12",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-08-12-6", src: "photos/album-2026-08-12-6.jpg", date: "2026-08-12",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-08-12-7", src: "photos/album-2026-08-12-7.jpg", date: "2026-08-12",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+
+  // ---- From his Google Photos album (found 2026-11-23) ----
   { id: "album-2026-08-11-13", src: "photos/album-2026-08-11-13.jpg", date: "2026-08-11",
     caption: "", location: "West Park",
     letterId: "2026-08-11-back2back" },
