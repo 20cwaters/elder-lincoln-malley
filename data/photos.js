@@ -10,6 +10,20 @@
 window.PHOTOS = [
 
   // ---- From his Google Photos album (found 2026-11-23) ----
+  { id: "album-2025-11-24-1", src: "photos/album-2025-11-24-1.jpg", date: "2025-11-24",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2025-11-24-2", src: "photos/album-2025-11-24-2.jpg", date: "2025-11-24",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2025-11-24-3", src: "photos/album-2025-11-24-3.jpg", date: "2025-11-24",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2025-11-24-4", src: "photos/album-2025-11-24-4.jpg", date: "2025-11-24",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+
+  // ---- From his Google Photos album (found 2026-11-23) ----
   { id: "album-2025-11-22-1", src: "photos/album-2025-11-22-1.jpg", date: "2025-11-22",
     caption: "", location: "Mexico CTM",
     letterId: "" },
