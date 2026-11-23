@@ -10,6 +10,24 @@
 window.PHOTOS = [
 
   // ---- From his Google Photos album (found 2026-11-23) ----
+  { id: "album-2025-10-29-1", src: "photos/album-2025-10-29-1.jpg", date: "2025-10-29",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2025-10-29-2", src: "photos/album-2025-10-29-2.jpg", date: "2025-10-29",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2025-10-29-3", src: "photos/album-2025-10-29-3.jpg", date: "2025-10-29",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2025-10-29-4", src: "photos/album-2025-10-29-4.jpg", date: "2025-10-29",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2025-10-29-video-1", video: "3d418913b6370b864800491b2ab73c82", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/3d418913b6370b864800491b2ab73c82/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/3d418913b6370b864800491b2ab73c82/iframe", date: "2025-10-29",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+
+  // ---- From his Google Photos album (found 2026-11-23) ----
   { id: "album-2025-12-18-1", src: "photos/album-2025-12-18-1.jpg", date: "2025-12-18",
     caption: "", location: "Mexico CTM",
     letterId: "" },
