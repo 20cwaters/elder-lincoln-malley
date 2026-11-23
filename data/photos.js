@@ -10,6 +10,14 @@
 window.PHOTOS = [
 
   // ---- From his Google Photos album (found 2026-11-23) ----
+  { id: "album-2026-04-13-97", src: "photos/album-2026-04-13-97.jpg", date: "2026-04-13",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-04-13-98", src: "photos/album-2026-04-13-98.jpg", date: "2026-04-13",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+
+  // ---- From his Google Photos album (found 2026-11-23) ----
   { id: "album-2026-04-13-85", src: "photos/album-2026-04-13-85.jpg", date: "2026-04-13",
     caption: "", location: "Mexico CTM",
     letterId: "" },
