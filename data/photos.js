@@ -10,6 +10,32 @@
 window.PHOTOS = [
 
   // ---- From his Google Photos album (found 2026-11-23) ----
+  { id: "album-2026-03-02-37", src: "photos/album-2026-03-02-37.jpg", date: "2026-03-02",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-03-02-38", src: "photos/album-2026-03-02-38.jpg", date: "2026-03-02",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-03-02-39", src: "photos/album-2026-03-02-39.jpg", date: "2026-03-02",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-03-02-40", src: "photos/album-2026-03-02-40.jpg", date: "2026-03-02",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-03-02-41", src: "photos/album-2026-03-02-41.jpg", date: "2026-03-02",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-03-02-42", src: "photos/album-2026-03-02-42.jpg", date: "2026-03-02",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-03-02-43", src: "photos/album-2026-03-02-43.jpg", date: "2026-03-02",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+  { id: "album-2026-03-02-44", src: "photos/album-2026-03-02-44.jpg", date: "2026-03-02",
+    caption: "", location: "Mexico CTM",
+    letterId: "" },
+
+  // ---- From his Google Photos album (found 2026-11-23) ----
   { id: "album-2026-03-02-25", src: "photos/album-2026-03-02-25.jpg", date: "2026-03-02",
     caption: "", location: "Mexico CTM",
     letterId: "" },
